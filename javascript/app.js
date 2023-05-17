@@ -3,14 +3,14 @@ particlesJS('particles',
   {
     "particles": {
       "number": {
-        "value": 200,
+        "value": 100,
         "density": {
           "enable": true,
           "value_area": 1000
         }
       },
       "color": {
-        "value": "#ffff40"
+        "value": "#ffffff"
       },
       "shape": {
         "type": "star",
@@ -73,7 +73,7 @@ particlesJS('particles',
       "events": {
         "onhover": {
           "enable": true,
-          "mode": "attract"
+          "mode": "repulse"
         },
         "onclick": {
           "enable": true,
@@ -95,7 +95,7 @@ particlesJS('particles',
           "opacity": 8,
           "speed": 3
         },
-        "attract": {
+        "repulse": {
           "distance": 200
         },
         "push": {
