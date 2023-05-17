@@ -73,7 +73,7 @@ particlesJS('particles',
       "events": {
         "onhover": {
           "enable": true,
-          "mode": "repulse"
+          "mode": "attract"
         },
         "onclick": {
           "enable": true,
@@ -95,7 +95,7 @@ particlesJS('particles',
           "opacity": 8,
           "speed": 3
         },
-        "repulse": {
+        "attract": {
           "distance": 200
         },
         "push": {
