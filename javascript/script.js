@@ -47,6 +47,7 @@ var typed = new Typed(".typing-text", {
     typeSpeed: 60,
     backSpeed: 10,
     backDelay: 800,
+    color: white,
 });
 
 
