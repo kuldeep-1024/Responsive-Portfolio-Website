@@ -42,7 +42,7 @@ $(document).ready(function () {
 // typed js effect
 
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "Hi-fi prototyping", "UI/UX designing", "Sketching", "Logo designing", "Graphic designing", "Illustration", "Animation",],
+    strings: ["frontend development", "backend development", "web designing", "Hi-fi prototyping", "UI/UX", "Sketching", "Logo designing", "Graphic designing", "Illustration", "Animation",],
     loop: true,
     typeSpeed: 60,
     backSpeed: 10,
